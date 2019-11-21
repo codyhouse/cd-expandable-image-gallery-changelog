@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Expandable Image Gallery - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Expandable Image Gallery component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/expandable-image-gallery)
+- [Info Page](https://codyhouse.co/ds/components/info/expandable-image-gallery)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
