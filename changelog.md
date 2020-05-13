@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.3] - 2020-05-13
+- Fixed issue when lightbox images are not loaded
+
 ## [1.0.2] - 2020-04-27
 - Fixed bug when the gallery has one item only 
 
