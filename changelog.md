@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.4] - 2020-05-14
+- Fixed issue when the Lazy Load component is used for the image galleries 
+
 ## [1.0.3] - 2020-05-13
 - Fixed issue when lightbox images are not loaded
 
