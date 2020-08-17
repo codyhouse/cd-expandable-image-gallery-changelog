@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.4] - 2020-08-15
+- Fixed bug when used with a filterable gallery of images
+- Close image gallery when clicking outside the image/action buttons
+
 ## [1.0.4] - 2020-05-14
 - Fixed issue when the Lazy Load component is used for the image galleries 
 
