@@ -1,7 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
-## [1.0.4] - 2020-08-15
+## [1.0.6] - 2020-09-11
+- It is now compatible with the Infinite Scroll component
+
+## [1.0.5] - 2020-08-15
 - Fixed bug when used with a filterable gallery of images
 - Close image gallery when clicking outside the image/action buttons
 
