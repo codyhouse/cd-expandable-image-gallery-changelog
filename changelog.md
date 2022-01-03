@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.7] - 2022-01-03
+- Fixed issue with data-zoom off and swipe 
+
 ## [1.0.6] - 2020-09-11
 - It is now compatible with the Infinite Scroll component
 
